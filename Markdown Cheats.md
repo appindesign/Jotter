@@ -1,0 +1,4 @@
+- \# Header level 1
+- \#\# Header level 2 etc
+- \*Italics\* e.g. *italics*
+- \*\*Bold\*\* e.g. **bold**
