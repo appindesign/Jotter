@@ -15,6 +15,7 @@ You need git installed on your device
 ## To add a file to a git repository
 - Put the file in the repository folder
 - git add file
+
 At this stage the file is ready to be committed.
 ## To commit a change
 - git commit file
