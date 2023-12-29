@@ -1,7 +1,11 @@
 # FunctionTemplate
 Solve the problem of creating a documented custom M function.
 
-The template contains a simple example function to divide a by b. Reference [Adding Function Documentation](https://learn.microsoft.com/en-us/power-query/handling-documentation).
+The template contains a simple example function to divide a by b. 
+
+References
+- Web, [Adding Function Documentation](https://learn.microsoft.com/en-us/power-query/handling-documentation) by Microsoft Learn.
+- YouTube [Custom Functions and Documentation in Power Query](https://youtu.be/dJTh0FxcPnQ?si=M3hfXgcuyfnmOsJq) by Microsoft Power BI Dev Camp.
 
 # M Style Notes
 Solve the problem of consistent styling in M.
