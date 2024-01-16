@@ -3,7 +3,7 @@
 1. [Markdown Crash Course](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/) blog post by "Web Dev Simplified".
 1. [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 # Utilities
-1. Try it on the interactive markdown editor at the foot of the blog post [Markdown Crash Course](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/) by "Web Dev Simplified".
+1. "Try it" on the interactive markdown editor at the foot of the blog post [Markdown Crash Course](https://blog.webdevsimplified.com/2023-06/markdown-crash-course/) by "Web Dev Simplified".
 # Headings
 - \# Header level 1
 - \#\# Header level 2 etc
