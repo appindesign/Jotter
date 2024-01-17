@@ -24,6 +24,9 @@ TODO clone
 ## To view the status of a repository
 - git status
 - u = untracked
+## To find repositories using multiple tag
+I'm not aware of a direct way of doing this. You can use the API. This example looks for repositories with the "time-series" and "m" tags.
+- https://api.github.com/search/repositories?q=topic:time-series+topic:m
 # Overview of Tool Setup
 - Install git
 - Get a GitHub account
