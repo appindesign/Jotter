@@ -26,6 +26,8 @@
 - \---: Align column right
 - \:--- Align column left
 - \:---: Centre column
+# Escape Character
+- \\
 # Code
 - \`code\` Format as code e.g. `code`
 - \`\`\`code\`\`\` Format as multiline code
