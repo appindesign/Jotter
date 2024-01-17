@@ -32,3 +32,5 @@
 - \`code\` Format as code e.g. `code`
 - \`\`\`code\`\`\` Format as multiline code
 - \`\`\`js code\`\`\` Format as Javascript code
+# Style Guide
+- References: <text> <blank|on YouTube|blog post> <by Author>; next reference
