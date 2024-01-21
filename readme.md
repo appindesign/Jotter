@@ -1,3 +1,8 @@
+# Theme Templates
+Solve the problem of having to override the font, colour pallet and visual setting defaults.
+
+This theme file supplies an alternative to the defaults of Power BI.
+
 # FunctionTemplate
 Solve the problem of creating a documented custom M function.
 

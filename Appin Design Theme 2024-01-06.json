@@ -1,9 +1,14 @@
 {
     "name":"Appin Design Template",
     "dataColors":[
-        "#FF0000",
-        "#00FF00",
-        "#0000FF"
+        "#CCCCCC",
+        "#4CA948",
+        "#05549C",
+        "#DAE9EC",
+        "#82AACE",
+        "#F6F8F9",
+        "#292E6B",
+        "#E6ECF0"
     ],
     "textClasses":{
         "title":{"fontFace":"Verdana"},
