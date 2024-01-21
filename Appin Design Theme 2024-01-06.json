@@ -1,6 +1,6 @@
 {
-    "name":"Appin Design Template",
-    "dataColors":[
+    "name": "Appin Design Template",
+    "dataColors": [
         "#CCCCCC",
         "#4CA948",
         "#05549C",
@@ -10,57 +10,136 @@
         "#292E6B",
         "#E6ECF0"
     ],
-    "textClasses":{
-        "title":{"fontFace":"Verdana"},
-        "header":{"fontFace":"Verdana"},
-        "label":{"fontFace":"Verdana"},
-        "callout":{"fontFace":"Verdana"}
+    "textClasses": {
+        "title": {
+            "fontFace": "Verdana"
+        },
+        "header": {
+            "fontFace": "Verdana"
+        },
+        "label": {
+            "fontFace": "Verdana"
+        },
+        "callout": {
+            "fontFace": "Verdana"
+        }
     },
-    "visualStyles":{
-        "*":{
-            "*":{
-                "*":[
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
                     {
-                        "strokeWidth":1,
-                        "responsive":false,
-                        "gridlineShow":false,
-                        "showAxisTitle":false,
-                        "labelDisplayUnits":"none",
-                        "legend":{"show":false, "titleText":"", "position":"TopRight"},
-                        "visualHeader":[{"show":true}],
-                        "stylePreset":"Minimal",
-                        "title":[{
-                            "show":true,
-                            "fontColor":{"solid":{"color":{"expr":{"ThemeDataColor":{"ColorId":1,"Percent":0}}}}}
-                        }],
-                        "grid":[{
-                            "outlineWeight":1,
-                            "outlineColor":{"solid":{"color":{"expr":{"ThemeDataColor":{"ColorId":1,"Percent":0.6}}}}}
-                        }],
-                        "labelColor":{"solid":{"color":{"expr":{"ThemeDataColor":{"ColorId":1,"Percent":0.6}}}}},
-                        "secLabelColor":{"solid":{"color":{"expr":{"ThemeDataColor":{"ColorId":1,"Percent":0.6}}}}}
+                        "strokeWidth": 1,
+                        "responsive": false,
+                        "gridlineShow": false,
+                        "showAxisTitle": false,
+                        "labelDisplayUnits": "none",
+                        "legend": {
+                            "show": false,
+                            "titleText": "",
+                            "position": "TopRight"
+                        },
+                        "visualHeader": [
+                            {
+                                "show": true
+                            }
+                        ],
+                        "stylePreset": "Minimal",
+                        "title": [
+                            {
+                                "show": true,
+                                "fontColor": {
+                                    "solid": {
+                                        "color": {
+                                            "expr": {
+                                                "ThemeDataColor": {
+                                                    "ColorId": 1,
+                                                    "Percent": 0
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "grid": [
+                            {
+                                "outlineWeight": 1,
+                                "outlineColor": {
+                                    "solid": {
+                                        "color": {
+                                            "expr": {
+                                                "ThemeDataColor": {
+                                                    "ColorId": 1,
+                                                    "Percent": 0.6
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "labelColor": {
+                            "solid": {
+                                "color": {
+                                    "expr": {
+                                        "ThemeDataColor": {
+                                            "ColorId": 1,
+                                            "Percent": 0.6
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "secLabelColor": {
+                            "solid": {
+                                "color": {
+                                    "expr": {
+                                        "ThemeDataColor": {
+                                            "ColorId": 1,
+                                            "Percent": 0.6
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "fontSize": 16
+                    }
+                ],
+                "categoryLabels": [
+                    {
+                        "show": false,
+                        "fontSize": 12
+                    }
+                ]
+            }
+        },
+        "pivotTable": {
+            "*": {
+                "subTotals": [
+                    {
+                        "rowSubTotals": false,
+                        "columnSubTotals": false
+                    }
+                ]
+            }
+        },
+        "map": {
+            "*": {
+                "mapStyles": [
+                    {
+                        "mapTheme": "aerial"
                     }
                 ]
             }
         }
-    },
-    "card":{
-        "*":{
-            "labels":[{"fontSize":16}],
-            "categoryLabels":[{
-                "show":false,
-                "fontSize":12
-            }]
-        }
-    },
-    "pivotTable":{
-        "*":{
-            "subTotals":[{
-                "rowSubTotals":false,
-                "columnSubTotals":false
-            }]
-        }
-    },
-    "map":{"*":{"mapStyles":[{"mapTheme":"aerial"}]}
     }
 }
