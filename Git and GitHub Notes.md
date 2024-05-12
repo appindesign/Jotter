@@ -36,3 +36,13 @@ I'm not aware of a direct way of doing this. You can use the API. This example l
 - Install DAX for Power BI extension for VS Code
 - Install Microsoft's Power Query SDK extension for VS Code
 - Create a repository in git or GitHub and clone it to GitHub or git.
+# Create a git repository via VS Code
+These steps are based on reference 1.
+- Using the VS Code Explorer open a project.
+- Using VS Code Source Control "Initialise Repository".
+- Choose the folder to use for the repository.
+- Type a commit message, click the check mark.
+- Open the VS Code Command Palette. Choose Git: Add Remote. Name the repository.
+- Create a GitHub remote repository (Add Remote), give it a name, make public or private. Add a readme.
+- Copy the url and put it in VS Code.
+- Now Push the changes (can use the icon at the bottom of the panel on the left).
