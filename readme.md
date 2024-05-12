@@ -23,4 +23,4 @@ Includes links to markdown tutorials and the "GitHub Flavoured Markdown" (gfm) s
 # Git and GitHub Notes
 Solves the problem of remembering git and GitHub commands and procedures.
 
-Includs links to tutorials. Don't Smile.
+Includs links to tutorials.
