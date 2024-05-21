@@ -12,6 +12,6 @@ Start each catalogue entry with "Solves the problem of..." or "Solves problems l
 - Documentation.FieldDescription ... do end with a period
 
 # html Codes Supported by Documentation.LongDescription
-- <code>code font face</code>
-- <b>bold</b>
-- <i>italics</i>
+- \<code\>\</code\> code font face
+- \<b\>\</b\> bold
+- \<i\>\</i\> italics
