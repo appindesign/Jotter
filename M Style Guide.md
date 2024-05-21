@@ -10,3 +10,8 @@ Start each catalogue entry with "Solves the problem of..." or "Solves problems l
 # Custom Function Documentation
 - Documentation.FieldCaption ... don't end with a period
 - Documentation.FieldDescription ... do end with a period
+
+# html Codes Supported by Documentation.LongDescription
+- <code>code font face</code>
+- <b>bold</b>
+- <i>italics</i>
