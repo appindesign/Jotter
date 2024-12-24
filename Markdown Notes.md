@@ -33,4 +33,5 @@
 - \`\`\`code\`\`\` Format as multiline code
 - \`\`\`js code\`\`\` Format as Javascript code
 # Style Guide
-- References: <text> <blank|on YouTube|blog post> <by Author>; next reference
+- References: <text> <blank|on YouTube|blog post> <by Author>; next reference.
+- Readme: For custom M functions give the purpose (succintly and copy this into the code), the parameters and the return. The purpose should begin "Solves the problem..."
