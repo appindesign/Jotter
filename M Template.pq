@@ -7,20 +7,20 @@ let
             type number meta [
                 Documentation.FieldCaption = "a",
                 Documentation.FieldDescription = "Numerator",
-                Documentation.SampleValues = {10},
+                //Documentation.SampleValues = {10},
                 //Documentation.AllowedValues = {},
-                Documentation.IsMultiline = false,
-                Documentation.IsCode = false
+                //Documentation.IsMultiline = false,
+                //Documentation.IsCode = false
             ]
         ),
         b as (
             type number meta [
                 Documentation.FieldCaption = "b",
                 Documentation.FieldDescription = "Denominator",
-                Documentation.SampleValues = {4},
+                //Documentation.SampleValues = {4},
                 //Documentation.AllowedValues = {},
-                Documentation.IsMultiline = false,
-                Documentation.IsCode = false
+                //Documentation.IsMultiline = false,
+                //Documentation.IsCode = false
             ]
         )
     ) as number meta [
