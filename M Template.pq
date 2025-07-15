@@ -6,7 +6,7 @@ let
         a as (
             type number meta [
                 Documentation.FieldCaption = "a",
-                Documentation.FieldDescription = "Numerator",
+                Documentation.FieldDescription = "Numerator"//,
                 //Documentation.SampleValues = {10},
                 //Documentation.AllowedValues = {},
                 //Documentation.IsMultiline = false,
@@ -16,7 +16,7 @@ let
         b as (
             type number meta [
                 Documentation.FieldCaption = "b",
-                Documentation.FieldDescription = "Denominator",
+                Documentation.FieldDescription = "Denominator"//,
                 //Documentation.SampleValues = {4},
                 //Documentation.AllowedValues = {},
                 //Documentation.IsMultiline = false,
